@@ -31,7 +31,7 @@ localhost:8888/components/{packageName}
 
 ## Packages
 
-### Ready for 9.0
+### Ready for 10.0
 
 * [Artisan Console](https://github.com/smpleader/torch-laravel10/tree/master/components/artisan)
 * [Cache](https://github.com/smpleader/torch-laravel10/tree/master/components/cache)
